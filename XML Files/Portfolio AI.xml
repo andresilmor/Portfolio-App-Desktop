@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<slide>
+
+    <work MovieURL="" 
+    Name="Trémaux Algorithm" 
+    SmallDescription="This project use the Trémaux Alghoritm to solve this maze, while the code was not the more efficient duo to my lack on game development knowledge at the time, it still works." 
+    BigDescription="There are many different types of pathfinding. Unfortunately, there is no generic solution to all problems
+Maze Solving: consider yourself a maze and the goal is to find the path between two points. There are several different maze-solving algorithms, that is, automated methods for solving mazes.
+The Trémaux algorithm, marks the paths already taken. A path can have several states: not visited, visited once, visited twice."/>
+   
+    <work MovieURL="../Movies/StateMachines.flv" 
+    Name="State Machines" 
+    SmallDescription="This project use State Movies to control two specific tanks, the aggressive blue and the coward red." 
+    BigDescription="One of the most basic techniques used in decision making is state machines. 
+A machine states, it is an abstract machine that can exist in one of several different and predefined states. 
+An FSM (MEF in Portuguese) can also define a set of conditions that determine when the state should change."/>
+
+    <work MovieURL="../Movies/BehaviorTrees.flv" 
+    Name="Behavior Trees" 
+    SmallDescription="This project use the asset Behavior Bricks to create a group of Behavior Trees giving to the tanks their own &quot;personality&quot;" 
+    BigDescription="One of the most basic techniques used in decision inputs is behavior trees. 
+A BT is a tree of knots hierarchical controls that control the decision-making flow of an AI entity."/>
+
+</slide>
